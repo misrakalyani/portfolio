@@ -1,0 +1,45 @@
+body {
+ font-family: 'Oswald', sans-serif;
+ color : D0C4AB;
+ font-weight : 500;
+ background-color: #505259;
+
+}
+
+.header-text {
+ color : #C6998D;
+}
+
+hr
+{
+ color: D0C4AB;
+ background-color: D0C4AB ;
+ height: 1px;
+}
+
+.color-text
+{
+ color : D0C4AB;
+}
+
+.title-super {
+ font-size : 60px;
+ font-weight : 600;
+}
+
+.main-image{
+ max-width : 500%;
+}
+.resume{
+ max-width : 90%;
+}
+.mock{
+ max-width : 90%;
+ max-height : 50%;
+}
+.blog{
+ max-width : 90%;
+}
+.back-color{
+ color : 131A2D;
+}
